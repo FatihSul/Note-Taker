@@ -1,5 +1,5 @@
 # Note-Taker
-https://note-taker-fs.herokuapp.com/notes
+https://note-taker-fs.herokuapp.com
 
 This program is a Note Taker that helps you take notes if you need it for anything in everyday life.
 
